@@ -1,0 +1,7 @@
+Setup Used.
+
+Logstash version used ---- logstash 7.17.0 tar.gz
+Elastic used ---- elastic 7.17.0
+
+Command to execute the config  ----- bin/logstash -f config/logstash.conf
+
